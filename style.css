@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to left, rgb(27, 25, 25), rgba(5, 5, 5, 0.6));
+}
+.container{
+    height: 100vh !important;
+    width: 100vw !important;
+   
+}
+a {
+    padding: 4em;
+}
+.navbar-nav{
+    Width: Hug (405px);
+Height: Hug (19px);
+Top:43px;
+Left:683px;
+Gap:40px;
+}
+
+.nav-link:hover{
+color: white;
+}
+#purple{
+    color: purple;
+    font-weight: 700;
+    size: 52px;
+}
+.content{
+    margin-top: 12em;
+    margin-left: 0px;
+  
+}
+#white{
+    color: white;
+    font-weight: 700;
+    size: 52px;
+}
+.hyphon{
+    color: white;
+}
+#para{
+color: white;
+font-weight: 400;
+size: 18px;
+}
+
+.speakertwo{
+    Width:498px;
+Height:689px;
+Top:400px;
+Left:1400px;
+margin-right: 0;
+margin-top: 20px;
+display: inline-block;
+gap: 0px;
+
+
+}
+.speakerone{
+    display: inline-block;
+    width: 378px;
+height: 513px;
+top: 370px;
+left: 800px;
+gap: 0px;
+opacity: 0px;
+margin-top: 190px;
+  
+}
+.main{
+    display: flex;
+    width: 100vw !important;
+    justify-content: space-evenly;
+}
+.speakers{
+    display: flex !important;
+    margin-top: 300px;
+   
+}
+.navbar{
+    margin:  0 auto !important;
+    width: 100vw;
+   
+}
+.navbar{
+    justify-content: center;
+}
